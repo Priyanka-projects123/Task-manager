@@ -68,18 +68,18 @@ python main.py
 
 Enter your choice (1-7): 6
 
---- Analytics Report ---
-Total tasks: 1
-Completed tasks: 1
-Pending tasks: 0
-Completion Percentage: 100.00%
-No overdue tasks.
+--- Analytics Report ---   </br>
+Total tasks: 1            </br>
+Completed tasks: 1        </br>
+Pending tasks: 0          </br>
+Completion Percentage: 100.00%       </br>
+No overdue tasks.                    
 
 ## Tests usage
 
 bash
 '''
- cd Task-manager
+ cd Task-manager   </br>
  python -m unittest discover -s tests -p "test_*.py" -v
 '''
 
@@ -130,6 +130,20 @@ and basic backend applications.
 ## Why recruiters value this
 
 **It shows understanding of task lifecycle management, filtering, sorting, date handling, and priority-based logic-common in many applications.**
+
+## Ouput
+<p align="center">
+  <img src="screenshots.png" alt="Menu" width="600">
+</p>
+
+## Author Information
+
+- Name: Priyanka Dharmaram Choudhary
+- Batch: ITC Infotech - Python Developer
+- Submission Date: 17 February 2026
+- Email: choudhary200202@gmail.com
+  
+
 
 
 

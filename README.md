@@ -37,8 +37,8 @@ The project also provides analytics such as task completion percentage and overd
 
 ## Usage
 
-To start the Task Manager application, open a terminal in the project directory and run:
-bash 
+To start the Task Manager application, open a terminal in the project directory and run: </br>
+bash </br>
 '''
 python main.py
 '''
@@ -79,7 +79,8 @@ No overdue tasks.
 
 bash </br>
 '''
- cd Task-manager   </br>
+
+ cd PriyankaChoudhary_PythonProject   </br>
  python -m unittest discover -s tests -p "test_*.py" -v
  
 '''
@@ -132,8 +133,7 @@ and basic backend applications.
 
 **It shows understanding of task lifecycle management, filtering, sorting, date handling, and priority-based logic-common in many applications.**
 
-## Ouput
-## Screenshots / Demo
+## Ouput :- 
 
 📄 [View Project Screenshots (PDF)](screenshots.pdf)
 

@@ -35,14 +35,24 @@ The project also provides analytics such as task completion percentage and overd
 - VS Code as IDE
 - No external dependencies
 
-## Usage
+## Installation instructions
 
-To start the Task Manager application, open a terminal in the project directory and run: </br>
-bash </br>
-'''
-python main.py
-'''
+- Install Python (version 3.8 or above)
+- Clone the repository or download the ZIP
+    cd PriyankaChoudhary_PythonProject
+- Open terminal in the project folder
+- (Optional) Create virtual environment
+- As my project does not need any dependencies so there is no need to install any library
+- You are ready to run project
+## Usage / How to run project
 
+- Open terminal in project directory
+- Run the application
+- python main.py
+- Choose options from the menu
+- Enter task details as prompted
+- Select option 10 to exit
+ 
 - Example :- Main Menu
 
 ==== Task Manager Menu ====

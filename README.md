@@ -132,9 +132,9 @@ and basic backend applications.
 **It shows understanding of task lifecycle management, filtering, sorting, date handling, and priority-based logic-common in many applications.**
 
 ## Ouput
-<p align="center">
-  <img src="screenshots.png" alt="Menu" width="600">
-</p>
+## Screenshots / Demo
+
+📄 [View Project Screenshots (PDF)](screenshots.pdf)
 
 ## Author Information
 

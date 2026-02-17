@@ -77,7 +77,7 @@ No overdue tasks.
 
 ## Tests usage
 
-bash
+bash </br>
 '''
  cd Task-manager   </br>
  python -m unittest discover -s tests -p "test_*.py" -v

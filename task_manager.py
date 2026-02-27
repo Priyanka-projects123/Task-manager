@@ -27,25 +27,6 @@ class TaskManager:
         task.priority = priority
         task.due_date = due_date
         self.save_tasks()
-
-    '''def analytics(self):
-        total = len(self.tasks)
-        completed = len([t for t in self.tasks if t.completed])
-        pending = total - completed
-        completion_percentage = (completed / total * 100) if total > 0 else 0
-        today = datetime.today().date()
-        overdue_tasks = []
-
-        for task in self.tasks:
-            if not task.completed:
-               try:
-                  due_date = datetime.strptime(task.due_date, "%Y-%m-%d").date()
-                  if due_date < today:
-                    overdue_tasks.append(task)
-               except ValueError:
-                   pass  # Ignore wrong date format
-
-        return total, completed, pending, completion_percentage, overdue_tasks'''
     
     def filter_by_status(self, status):
        if status.lower() == "completed":
